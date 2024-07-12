@@ -1,1 +1,1 @@
-# Algorithm-Code-Kata
+Daily Algorithm-Code-Kata Practice
